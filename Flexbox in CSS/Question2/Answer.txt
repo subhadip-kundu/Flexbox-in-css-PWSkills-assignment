@@ -1,0 +1,22 @@
+descriptions of the key properties in the Flexbox layout model:
+
+-> justify-content:-
+    Controls horizontal alignment of items.
+    Values: Start, end, center, space-between, space-around, space-evenly.
+
+-> align-items:-
+    Controls vertical alignment of items.
+    Values: Start, end, center, baseline, stretch (default).
+
+->gap:-
+    Sets spacing between flex items.
+    Can have one or two values for spacing.
+
+->flex-direction:-
+    Defines the main axis direction.
+    Values: Row (default), row-reverse, column, column-reverse.
+
+->flex-wrap:-
+    Determines if items wrap to the next line.
+    Values: No-wrap (default), wrap, wrap-reverse.
+    These properties help create flexible and responsive layouts in CSS.
